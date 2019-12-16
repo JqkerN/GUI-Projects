@@ -3,6 +3,16 @@ from PIL import ImageTk,Image
 from tkinter import messagebox
 import sqlite3
 
+
+
+# Create Global variables
+firstName_editor = None
+lastName_editor = None
+adress_editor = None
+city_editor = None
+zipcode_editor = None
+editor = None
+
 root = Tk()
 root.title('Dropdown Meny')
 root.iconbitmap('images/diablo.ico')
