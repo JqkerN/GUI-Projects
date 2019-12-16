@@ -3,7 +3,7 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('frame - tutorial')
-root.iconbitmap('images/dibalo.ico')
+root.iconbitmap('images/diablo.ico')
 
 #r = IntVar()
 

@@ -4,7 +4,7 @@ from tkinter import filedialog
 
 root = Tk()
 root.title('Select file')
-root.iconbitmap('images/dibalo.ico')
+root.iconbitmap('images/diablo.ico')
 
 img = []
 

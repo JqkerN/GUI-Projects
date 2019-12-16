@@ -3,7 +3,7 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('frame - tutorial')
-root.iconbitmap('images/dibalo.ico')
+root.iconbitmap('images/diablo.ico')
 
 frame = LabelFrame(root, text='This is my Frame...', padx=50, pady=50)
 frame.pack(padx=10, pady=10)

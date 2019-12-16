@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 root = Tk()
 root.title('frame - tutorial')
-root.iconbitmap('images/dibalo.ico')
+root.iconbitmap('images/diablo.ico')
 
 
 def popup():

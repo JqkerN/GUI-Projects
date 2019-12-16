@@ -5,7 +5,7 @@ import sqlite3
 
 root = Tk()
 root.title('Dropdown Meny')
-root.iconbitmap('images/dibalo.ico')
+root.iconbitmap('images/diablo.ico')
 root.geometry("300x400")
 
 
@@ -62,7 +62,7 @@ def edit():
     global editor
     editor = Tk()
     editor.title('Update Record')
-    editor.iconbitmap('images/dibalo.ico')
+    editor.iconbitmap('images/diablo.ico')
     editor.geometry("300x200")
 
 

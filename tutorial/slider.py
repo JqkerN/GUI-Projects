@@ -4,7 +4,7 @@ from PIL import ImageTk,Image
 
 root = Tk()
 root.title('Select file')
-root.iconbitmap('images/dibalo.ico')
+root.iconbitmap('images/diablo.ico')
 root.geometry("200x200")
 
 def slide():

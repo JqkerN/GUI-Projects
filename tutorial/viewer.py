@@ -5,7 +5,7 @@ root = Tk()
 root.title('images - tutorial')
 
 # Does not work fore some unclear reason
-root.iconbitmap('images/dibalo.ico')
+root.iconbitmap('images/diablo.ico')
 
 img_1 = ImageTk.PhotoImage(Image.open('images/test.png'))
 img_2 = ImageTk.PhotoImage(Image.open('images/fireMario_PF.png'))
