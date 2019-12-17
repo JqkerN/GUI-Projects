@@ -8,7 +8,7 @@
 
 ## Packages
 [Tkinter](https://tkdocs.com/index.html) -
-*Pre-installed for python.*<br/>
+*Pre-installed for Python.*<br/>
 [Pillow](https://pillow.readthedocs.io/en/stable/)<br/>
 ```
 $ pip install Pillow
